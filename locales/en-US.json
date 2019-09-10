@@ -1,0 +1,15 @@
+{
+  "curiosity-graph": {
+    "heading": "CPU socket usage",
+    "dropdownDaily": "Daily",
+    "dropdownWeekly": "Weekly",
+    "dropdownMonthly": "Monthly",
+    "dropdownQuarterly": "Quarterly",
+    "dropdownPlaceholder": "Select date range",
+    "tooltipLabel": "sockets on",
+    "tooltipPreviousLabelDaily": "from previous day",
+    "tooltipPreviousLabelWeekly": "from previous week",
+    "tooltipPreviousLabelMonthly": "from previous month",
+    "tooltipPreviousLabelQuarterly": "from previous quarter"
+  }
+}
