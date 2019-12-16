@@ -1,6 +1,7 @@
 {
   "curiosity-graph": {
-    "heading": "CPU socket usage",
+    "coresHeading": "CPU core usage",
+    "socketsHeading": "CPU socket usage",
     "dropdownDaily": "Daily",
     "dropdownWeekly": "Weekly",
     "dropdownMonthly": "Monthly",
@@ -8,8 +9,12 @@
     "dropdownPlaceholder": "Select date range",
     "noDataLabel": "No data",
     "dateLabel": "Date",
-    "productHypervisorLabel": "Virtualized {{product}}",
-    "productSocketsLabel": "Physical {{product}}",
+    "coresLabel": "Cores",
+    "socketsLabel": "Sockets",
+    "hypervisorCoresLabel": "Virtualized cores",
+    "hypervisorSocketsLabel": "Virtualized {{product}}",
+    "physicalCoresLabel": "Physical cores",
+    "physicalSocketsLabel": "Physical {{product}}",
     "thresholdLabel": "Subscription threshold"
   },
   "curiosity-tour": {
