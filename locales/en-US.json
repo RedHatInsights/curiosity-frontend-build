@@ -1,19 +1,21 @@
 {
   "curiosity-graph": {
-    "heading": "CPU socket usage",
+    "coresHeading": "CPU core usage",
+    "socketsHeading": "CPU socket usage",
     "dropdownDaily": "Daily",
     "dropdownWeekly": "Weekly",
     "dropdownMonthly": "Monthly",
     "dropdownQuarterly": "Quarterly",
     "dropdownPlaceholder": "Select date range",
-    "tooltipNoData": "No data",
-    "rhelTooltipDate": "Date",
-    "rhelTooltipHypervisor": "Virtualized RHEL",
-    "rhelTooltipSockets": "Physical RHEL",
-    "rhelTooltipThreshold": "Subscription threshold",
-    "rhelLegendHypervisorLabel": "Virtualized RHEL",
-    "rhelLegendSocketsLabel": "Physical RHEL",
-    "rhelLegendThresholdLabel": "Subscription threshold"
+    "noDataLabel": "No data",
+    "dateLabel": "Date",
+    "coresLabel": "Cores",
+    "socketsLabel": "Sockets",
+    "hypervisorCoresLabel": "Virtualized cores",
+    "hypervisorSocketsLabel": "Virtualized {{product}}",
+    "physicalCoresLabel": "Physical cores",
+    "physicalSocketsLabel": "Physical {{product}}",
+    "thresholdLabel": "Subscription threshold"
   },
   "curiosity-tour": {
     "emptyStateIconAlt": "{{appName}} logo",
