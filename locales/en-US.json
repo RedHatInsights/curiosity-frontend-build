@@ -1,0 +1,44 @@
+{
+  "curiosity-auth": {
+    "pending": "Authenticating...",
+    "authorizedTitle": "Unauthorized",
+    "authorizedCopy": "You do not have permission to access reporting. Contact your administrator."
+  },
+  "curiosity-graph": {
+    "cardHeading": "CPU usage",
+    "coresHeading": "CPU core usage",
+    "socketsHeading": "CPU socket usage",
+    "dropdownDaily": "Daily",
+    "dropdownWeekly": "Weekly",
+    "dropdownMonthly": "Monthly",
+    "dropdownQuarterly": "Quarterly",
+    "dropdownPlaceholder": "Select date range",
+    "noDataLabel": "No data",
+    "dateLabel": "Date",
+    "coresLabel": "Cores",
+    "socketsLabel": "Sockets",
+    "hypervisorCoresLabel": "Virtualized cores",
+    "hypervisorSocketsLabel": "Virtualized {{product}}",
+    "physicalCoresLabel": "Physical cores",
+    "physicalSocketsLabel": "Physical {{product}}",
+    "thresholdLabel": "Subscription threshold"
+  },
+  "curiosity-toolbar": {
+    "slaCategory": "SLA",
+    "slaNone": "No SLA",
+    "slaPlaceholder": "Filter by SLA",
+    "slaPremium": "Premium",
+    "slaSelfSupport": "Self-Support",
+    "slaStandard": "Standard"
+  },
+  "curiosity-tour": {
+    "emptyStateIconAlt": "{{appName}} logo",
+    "emptyStateTitle": "{{appName}} is an early access beta",
+    "emptyStateDescription": "{{appName}} helps you understand your total subscription usage and capacity over time.",
+    "emptyStateDescriptionTour": "Take a quick tour to learn more.",
+    "emptyStateDescriptionExtended": "If you are interested in trying {{appName}}, your Red Hat account team can help.",
+    "emptyStateButton": "Take a tour",
+    "emptyStateLinkLearnMore": "Learn more",
+    "emptyStateLinkContactUs": "Contact us"
+  }
+}
