@@ -1,11 +1,11 @@
 {
   "app_name": "subscriptions",
-  "src_hash": "0b96389c72957dbe941e8dde262897e1962aa824",
+  "src_hash": "3de8b02325c0893aefda95a6d8888ffb6128b91d",
   "src_tag": "",
   "src_branch": "ci",
   "travis": {
     "event_type": "push",
-    "build_number": "775",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/curiosity-frontend/builds/673210312"
+    "build_number": "780",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/curiosity-frontend/builds/673245588"
   }
 }
