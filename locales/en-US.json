@@ -2,7 +2,8 @@
   "curiosity-auth": {
     "pending": "Authenticating...",
     "authorizedTitle": "You do not have access to {{appName}}.",
-    "authorizedCopy": "Contact your organization administrator for more information."
+    "authorizedCopy": "Contact your organization administrator for more information.",
+    "maintenanceCopy": "We are currently undergoing scheduled maintenance and will be back shortly. Thank you for your patience."
   },
   "curiosity-graph": {
     "cardHeading": "CPU usage",
@@ -42,11 +43,21 @@
     "tooltipSummary": "Your subscription data facets. With one level of column and row headers."
   },
   "curiosity-inventory": {
+    "cardHeading": "Current systems",
     "tableAriaLabel": "{{appName}} systems inventory table.",
     "tableSummary": "A generated table with one level of column headers.",
     "tableEmptyInventoryTitle": "No results found",
     "tableEmptyInventoryMessage": "No results match the filter criteria. Remove filters or clear all filters to show results.",
-    "tableSkeletonAriaLabel": "Loading"
+    "tableSkeletonAriaLabel": "Loading",
+    "hardwareType_hypervisor": "Hypervisor",
+    "hardwareType_physical": "Physical",
+    "hardwareType_virtual": "Virtual",
+    "header": "{{context}}",
+    "header_cores": "Cores",
+    "header_displayName": "Name",
+    "header_hardwareType": "Infrastructure",
+    "header_sockets": "Sockets",
+    "header_lastSeen": "Last seen"
   },
   "curiosity-toolbar": {
     "category": "Filter by",
