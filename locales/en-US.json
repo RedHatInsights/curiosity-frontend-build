@@ -1,8 +1,6 @@
 {
   "curiosity-auth": {
     "pending": "Authenticating...",
-    "authorizedTitle": "You do not have access to {{appName}}.",
-    "authorizedCopy": "Contact your organization administrator for more information.",
     "maintenanceCopy": "We are currently undergoing scheduled maintenance and will be back shortly. Thank you for your patience."
   },
   "curiosity-graph": {
@@ -56,6 +54,7 @@
     "header_cores": "Cores",
     "header_displayName": "Name",
     "header_hardwareType": "Infrastructure",
+    "header_inventoryId": "UUID",
     "header_sockets": "Sockets",
     "header_lastSeen": "Last seen"
   },
@@ -70,6 +69,8 @@
     "slaPremium": "Premium",
     "slaSelfSupport": "Self-Support",
     "slaStandard": "Standard",
+    "uom_cores": "Cores",
+    "uom_sockets": "Sockets",
     "usageDevelopment": "Development/Test",
     "usageDisaster": "Disaster Recovery",
     "usageProduction": "Production",
