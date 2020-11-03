@@ -1,12 +1,12 @@
 {
   "app_name": "subscriptions",
-  "src_hash": "c4dbf52af268bbf45b4d48b1758221e4bce8c3b4",
+  "src_hash": "c670525b0f8a6c708b18be0bd0066999562a4c31",
   "src_tag": "",
   "src_branch": "qa",
   "patternfly_dependencies": ["@patternfly/patternfly@4.50.4","@patternfly/react-charts@6.11.7","@patternfly/react-core@4.63.3","@patternfly/react-icons@4.7.11","@patternfly/react-styles@4.7.8","@patternfly/react-table@4.19.5","@patternfly/react-tokens@4.9.12"],
   "travis": {
     "event_type": "push",
-    "build_number": "1377",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/curiosity-frontend/builds/195661047"
+    "build_number": "1378",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/curiosity-frontend/builds/197858580"
   }
 }
