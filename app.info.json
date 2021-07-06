@@ -7,6 +7,6 @@
   "travis": {
     "event_type": "push",
     "build_number": "1634",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/curiosity-frontend/builds/231423000"
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/curiosity-frontend/builds/231423000"
   }
 }
