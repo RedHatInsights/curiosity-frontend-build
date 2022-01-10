@@ -1,12 +1,13 @@
 {
   "app_name": "subscriptions",
-  "src_hash": "299e157f5a21cda15f86fe7be337e97d1199b4df",
+  "src_hash": "6a249ef1c235b7792776dc0083528eb0d17d41a2",
   "src_tag": "",
-  "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.115.2","@patternfly/react-charts@6.15.3","@patternfly/react-core@4.135.0","@patternfly/react-icons@4.11.0","@patternfly/react-styles@4.11.0","@patternfly/react-table@4.29.0","@patternfly/react-tokens@4.12.0"],
+  "src_branch": "main",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.135.2","@patternfly/react-charts@6.15.23","@patternfly/react-core@4.157.3","@patternfly/react-icons@4.11.17","@patternfly/react-styles@4.11.16","@patternfly/react-table@4.30.3","@patternfly/react-tokens@4.12.18"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.4.2","@redhat-cloud-services/frontend-components-notifications@3.2.4","@redhat-cloud-services/frontend-components-utilities@3.2.4"],
   "travis": {
     "event_type": "push",
-    "build_number": "1695",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/curiosity-frontend/builds/235561130"
+    "build_number": "1778",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/curiosity-frontend/builds/244541989"
   }
 }
