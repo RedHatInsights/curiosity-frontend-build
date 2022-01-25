@@ -1,1 +1,0 @@
-(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[746],{81754:()=>{},80598:()=>{},10108:()=>{},30187:()=>{},93398:()=>{},46928:()=>{},74181:()=>{},11177:()=>{}}]);
