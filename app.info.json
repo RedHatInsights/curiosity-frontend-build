@@ -1,5 +1,6 @@
 {
   "app_name": "subscriptions",
+  "node_version": ">=14.0.0",
   "src_hash": "a3b32118c29350d1b2fc50af348f20123186616d",
   "src_tag": "",
   "src_branch": "ci",
