@@ -1,13 +1,14 @@
 {
   "app_name": "subscriptions",
-  "src_hash": "afd93443ba54117a459ad4508574a227a6327b3f",
+  "node_version": ">=14.0.0",
+  "src_hash": "82600b8aef349fa933bc9c6e35a53f171e7f52bc",
   "src_tag": "",
   "src_branch": "qa",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.159.1","@patternfly/react-charts@6.28.4","@patternfly/react-core@4.175.4","@patternfly/react-icons@4.26.4","@patternfly/react-styles@4.25.4","@patternfly/react-table@4.44.4","@patternfly/react-tokens@4.27.4"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.5.1","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.6"],
+  "patternfly_dependencies": ["@patternfly/patternfly@4.171.1","@patternfly/react-charts@6.45.15","@patternfly/react-core@4.192.15","@patternfly/react-icons@4.43.15","@patternfly/react-styles@4.42.15","@patternfly/react-table@4.61.15","@patternfly/react-tokens@4.44.15"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.7.0","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.2.8"],
   "travis": {
-    "event_type": "push",
-    "build_number": "1801",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/curiosity-frontend/builds/245359269"
+    "event_type": "api",
+    "build_number": "1818",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/curiosity-frontend/builds/247359096"
   }
 }
