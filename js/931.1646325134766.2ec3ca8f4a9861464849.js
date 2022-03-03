@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[931],{80931:(e,t,i)=>{i.r(t),i.d(t,{default:()=>o,InventoryTab:()=>o}),i(92950);var r=i(45697),n=i.n(r),o=function(e){e.active;var t=e.children;return e.title,t};o.propTypes={children:n().node.isRequired,active:n().bool,title:n().node.isRequired},o.defaultProps={active:!1}}}]);
-//# sourceMappingURL=../sourcemaps/931.45e2b52ba51db8a1cf071f095518097f.js.map
