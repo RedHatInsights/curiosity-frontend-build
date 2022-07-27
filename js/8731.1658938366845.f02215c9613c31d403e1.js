@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[8731,2085],{84944:(e,t,r)=>{r.r(t),r.d(t,{ProductViewOpenShiftDedicated:()=>l,default:()=>l});var o=r(92950),i=r.n(o),n=r(29175),a=r(49844),c=r(65876),l=function(){return i().createElement(n.ProductView,{toolbarGraph:i().createElement(c.ToolbarFieldRangedMonthly,{position:a.SelectPosition.right}),toolbarGraphDescription:!0})};l.defaultProps={}}}]);
-//# sourceMappingURL=../sourcemaps/8731.5b212274ac9add038c8e86a3ad44f53a.js.map
