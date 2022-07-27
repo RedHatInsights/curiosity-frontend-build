@@ -1,0 +1,1 @@
+(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[7479],{27479:()=>{}}]);
