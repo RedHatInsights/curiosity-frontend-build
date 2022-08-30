@@ -1,0 +1,1 @@
+(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[5467,9477,3929,9682],{45467:function(){}}]);
