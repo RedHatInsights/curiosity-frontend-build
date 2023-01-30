@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcuriosity_frontend=self.webpackChunkcuriosity_frontend||[]).push([[895,2085],{83341:function(n,t,e){e.r(t),e.d(t,{InventoryCardHosts:function(){return a},default:function(){return a}});var r=e(92950),s=e.n(r),u=e(42896),o=e(57276),i=e(76006),a=function(n){var t=Object.assign({},n);return s().createElement(o.default,t)};a.defaultProps={isDisabled:i.BM.UI_DISABLED_TABLE_HOSTS,useGetInventory:u.useGetHostsInventory,useOnColumnSort:u.useOnColumnSortHosts}}}]);
+//# sourceMappingURL=../sourcemaps/895.0cf62802134a44ce0fc050b780427964.js.map
