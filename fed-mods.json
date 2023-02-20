@@ -1,11 +1,11 @@
 {
     "subscriptions": {
         "entry": [
-            "/beta/apps/subscriptions/subscriptions.1676908660866.41d74d912012a4ad5aaa.js"
+            "/apps/subscriptions/subscriptions.1676913138945.7be4cd4a0cc2bfde81f1.js"
         ],
         "modules": [
-            "/beta/apps/subscriptions/js/6402.1676908660747.41d74d912012a4ad5aaa.js",
-            "/beta/apps/subscriptions/css/6402.3abba64c7637c3371333.css"
+            "/apps/subscriptions/js/6402.1676913138823.7be4cd4a0cc2bfde81f1.js",
+            "/apps/subscriptions/css/6402.3abba64c7637c3371333.css"
         ]
     }
 }
