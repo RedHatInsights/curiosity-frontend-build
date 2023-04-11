@@ -1,10 +1,10 @@
 {
     "subscriptions": {
         "entry": [
-            "/apps/subscriptions/subscriptions.d62c5a75289a8e87f666.js"
+            "/apps/subscriptions/subscriptions.8c90fd8fa949c4a3e1b6.js"
         ],
         "modules": [
-            "/apps/subscriptions/js/6402.d62c5a75289a8e87f666.js",
+            "/apps/subscriptions/js/6402.8c90fd8fa949c4a3e1b6.js",
             "/apps/subscriptions/css/6402.bb2d4f4f4c9619765ccd.css"
         ]
     }
