@@ -1,11 +1,11 @@
 {
-    "subscriptions": {
-        "entry": [
-            "/apps/subscriptions/subscriptions.c6a2377e0a1febd9d56d.js"
-        ],
-        "modules": [
-            "/apps/subscriptions/js/6402.c6a2377e0a1febd9d56d.js",
-            "/apps/subscriptions/css/6402.f0049dad614b7a48a2b3.css"
-        ]
-    }
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/subscriptions/",
+  "loadScripts": [
+    "subscriptions.03bdccfdbe33939cb489.js"
+  ],
+  "buildHash": "03bdccfdbe33939cb4894561e0d0a5c9"
 }
