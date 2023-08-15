@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksubscriptions=self.webpackChunksubscriptions||[]).push([[931],{80931:function(e,t,n){n.r(t),n.d(t,{InventoryTab:function(){return s},default:function(){return s}});var i=n(45697),r=n.n(i);const s=e=>{let{active:t,children:n,title:i}=e;return n};s.propTypes={children:r().node.isRequired,active:r().bool,title:r().node.isRequired},s.defaultProps={active:!1}}}]);
+//# sourceMappingURL=../sourcemaps/931.4bdf445cf0c67f2862fc01324d1ac5eb.js.map
