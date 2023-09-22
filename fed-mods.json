@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/subscriptions/",
   "loadScripts": [
-    "subscriptions.97a94a0dc1930b5733e7.js"
+    "subscriptions.24956f8ec19ad04cbf23.js"
   ],
-  "buildHash": "97a94a0dc1930b5733e7b4afd9f52137"
+  "buildHash": "24956f8ec19ad04cbf23a3d4e771a1d0"
 }
