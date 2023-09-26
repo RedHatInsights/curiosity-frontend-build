@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksubscriptions=self.webpackChunksubscriptions||[]).push([[5020],{65020:function(t,e,n){n.r(e),n.d(e,{calculateOffsetFromPage:function(){return a},calculatePageFromOffset:function(){return u},default:function(){return s},isLastPage:function(){return c},paginationHelpers:function(){return s}});const a=(t,e)=>e*(t-1)||0,u=(t,e)=>t/e+1||1,c=(t,e,n)=>u(t,e)===Math.ceil(n/e),s={calculateOffsetFromPage:a,calculatePageFromOffset:u,isLastPage:c}}}]);
-//# sourceMappingURL=../sourcemaps/5020.e9acbe8a33f1f5ce1fd6a0c52c2501b4.js.map
